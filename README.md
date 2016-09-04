@@ -1,3 +1,3 @@
 # gcttong.github.io
 Personal Website
-can be accessed at garytong.me
+can be accessed at [garytong.me](garytong.me)
